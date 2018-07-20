@@ -63,7 +63,7 @@
 }
 
 .chat-btn:hover {
-  color: black;
-  background-color: red;
-  transform: rotate(1turn);
+  color: #ffe94a;
+  background-color: #523737;
+  transform: rotateY(1turn);
 }
